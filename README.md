@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **StephanieNgu/StephanieNgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Stephanie Ngu. I'm double majoring in Computer Science & Applied Mathematics and Statistics at Stony Brook University. I enjoy working with Python and Java, and I'm especially interested in pursuring a career in data science and machine learning. Currently, I am a fellow in Break Through Tech @ Cornell Tech, where I've been working on building, training, and test machine learning model with the airbnb dataset! 
+
