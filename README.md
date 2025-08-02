@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Stephanie Ngu. I'm double majoring in Computer Science & Applied Mathematics and Statistics at Stony Brook University. I enjoy working with Python and Java, and I'm especially interested in pursuring a career in data science and machine learning. Currently, I am a fellow in Break Through Tech @ Cornell Tech, where I've been working on building, training, and test machine learning model with the airbnb dataset! 
+I am Stephanie Ngu. I'm double-majoring in Computer Science & Applied Mathematics and Statistics at Stony Brook University. I enjoy working with Python and Java, and I'm especially interested in pursuing a career in data science and machine learning. Currently, I am a fellow in Break Through Tech @ Cornell Tech, where I've been working on building, training, and testing machine learning models with the Airbnb dataset! 
 
 ## Want to learn more about me or contact me?
-[Linkedin]([url](https://www.linkedin.com/in/stephaniengu1300/))
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/stephaniengu1300/)
+- Email me @ stephanien1300@gmail.com
